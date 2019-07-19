@@ -34,11 +34,13 @@ List all here. Feel free to edit on github and add yourself.
 * <http://eyeballsun.blogspot.de>
 * <http://nova.deviator.si/tag/supercollider>
 * <http://daniel-mayer.at/software_en.htm>
+* <https://technogems.blogspot.com/search/label/supercollider>
 
 ## video tutorials
 
 * [SuperCollider Tutorials by Eli Fieldsteel](http://www.youtube.com/playlist?list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC)
 * <http://www.funprogramming.org>
+* [Supercollider videos by Sound Engraver] <https://www.youtube.com/channel/UCRxJO2INa3EWX19IfoWqS5Q>
 
 ## other resources
 
